@@ -2,8 +2,6 @@
 
 A runnable, visual demonstration of the trace-severance failure at the A2A↔MCP seam — and how a named bridge component heals it.
 
-Built for the talk *"Where MCP Ends and A2A Begins"* (MCP Dev Summit Mumbai).
-
 ---
 
 ## What you'll see
