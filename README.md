@@ -129,5 +129,3 @@ The bridge module also has stubs for the other three failures, gated by the same
 - `BRIDGE_MODE=auth-heal` — shows token exchange (mocked IdP, returns scoped token)
 - `BRIDGE_MODE=orphan` — agent cancels its A2A task; MCP task keeps running (visible as a still-emitting span)
 - `BRIDGE_MODE=orphan-heal` — bridge fan-out cancels MCP when A2A terminates
-
-Skip these in the talk. They're for the audience to clone afterward.
